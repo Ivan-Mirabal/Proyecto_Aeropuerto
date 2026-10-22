@@ -1,0 +1,15 @@
+*.exe
+*.o
+*.out
+*.obj
+*.ilk
+*.pdb
+
+build/
+bin/
+out/
+debug/
+release/
+
+.DS_Store
+Thumbs.db
