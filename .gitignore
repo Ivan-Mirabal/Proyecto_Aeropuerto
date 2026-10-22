@@ -10,6 +10,7 @@ bin/
 out/
 debug/
 release/
+/.vscode/
 
 .DS_Store
 Thumbs.db
